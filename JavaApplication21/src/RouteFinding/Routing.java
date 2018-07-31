@@ -32,7 +32,7 @@ public class Routing {
         }
         temp = rt;
         System.out.println(temp);
-        for(int i = 0; i < routes.length - 1; i++){
+        for(int i = 0; i < routes.length; i++){
             //temp = routes[i][0];
             for(int j = 0; j< routes.length; j++){
                 if(routes[j][0].equals(temp)){

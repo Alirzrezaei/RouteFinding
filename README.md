@@ -1,2 +1,2 @@
-# My-Projects
-This contains most of projects during my programming course 
+# RouteFinding
+this little program is receiving a two dimensional array containing a pair of cities. These cities departure and destination of a trip. The program is finding the starting and end city of whole trip. 
